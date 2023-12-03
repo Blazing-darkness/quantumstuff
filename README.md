@@ -1,3 +1,3 @@
 # quantumstuff
 
-Brainstorming/ideas about quantum physics.
+Brainstorming / ideas about quantum physics.
